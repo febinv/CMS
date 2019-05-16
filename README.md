@@ -1,0 +1,1 @@
+This repository contains code for Course Management System project
